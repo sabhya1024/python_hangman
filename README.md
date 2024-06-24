@@ -23,8 +23,11 @@ Feedback: Receive feedback on your guess and see the updated word and hangman st
 Win or Lose: The game ends when you either guess the entire word or run out of lives.
 
 Repository Structure : 
+
 hangman.py: Main script containing the game logic.
+
 hangman_words.py: Module with a list of words for the game.
+
 hangman_art.py: Module with ASCII art stages and logo.
 
 
