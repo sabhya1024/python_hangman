@@ -24,7 +24,7 @@ Win or Lose: The game ends when you either guess the entire word or run out of l
 
 Repository Structure : 
 
-hangman.py: Main script containing the game logic.
+hangmanfile.py: Main script containing the game logic.
 
 hangman_words.py: Module with a list of words for the game.
 
